@@ -1,8 +1,4 @@
 {
-  "resellers": [
-    5617082980,
-    5126860596
-  ],
   "tokens": [
     "7771517773:AAES_ucnDlMrhNVFkCjMv04jEN7KPev8i1I",
     "7709466918:AAHC0mxjK39Eb9sgaJgvajZ4pAKT23kgAFo",
@@ -14,6 +10,7 @@
     "7797812495:AAHNOTKYPVlp7px7SViqvrEfNkLAtYT5Sn8",
     "7991917273:AAFLuIsQyX2qVBK7Hc1L4bewMgQvuIICzpQ",
     "7434478501:AAEIDgsclp-q29-9phq832_CylrVrugZ_uo",
-    "7673901472:AAFKNo-Lzm9qrL8u9ufA-lrDP4F5aqhRzlY"
+    "7673901472:AAFKNo-Lzm9qrL8u9ufA-lrDP4F5aqhRzlY",
+    "7667589930:AAHwX4jP_0IV6d_IzjsL0yu1J6m1nSRTunE"
   ]
 }
